@@ -45,9 +45,9 @@ Observed file ranges:
 
 Add the deployed URL here before submission:
 
-`TODO: https://...`
+https://earthre-sla-dashboard-lyart.vercel.app
 
-Last verified live: `TODO`.
+Last verified live: `20 September 2026`.
 
 ## Run Locally
 
